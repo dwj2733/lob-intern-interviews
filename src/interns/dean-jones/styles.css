@@ -5,10 +5,10 @@ html{
 }
 
 body{
-    padding: 5% 2% 0 2%;
+    padding: 2% 2% 0 2%;
     display: flex;
     justify-content: space-around;
-    height: 80vh;
+    height: 84vh;
 }
 
 #profile{
@@ -29,7 +29,7 @@ body{
 }
 
 #profile img{
-    width: 60%;
+    width: 75%;
     margin: 0px;
 }
 
@@ -42,5 +42,5 @@ body{
 
 #bio p{
     height: auto;
-    font-size: 2vh;
+    font-size: 2.5vh;
 }
